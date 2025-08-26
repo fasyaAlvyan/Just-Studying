@@ -2,5 +2,7 @@
 A Repository was created to track my learning.
 # Focus on studying:
 - **Networking**
-- **Coding**
+- **Coding(Python)**
 - **Operating System**
+
+  😹
